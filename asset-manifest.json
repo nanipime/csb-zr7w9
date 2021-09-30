@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nanipime.github.io/csb-zr7w9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nanipime.github.io/csb-zr7w9/static/js/main.252b172c.chunk.js",
+    "main.js.map": "https://nanipime.github.io/csb-zr7w9/static/js/main.252b172c.chunk.js.map",
+    "runtime-main.js": "https://nanipime.github.io/csb-zr7w9/static/js/runtime-main.9c03034c.js",
+    "runtime-main.js.map": "https://nanipime.github.io/csb-zr7w9/static/js/runtime-main.9c03034c.js.map",
+    "static/js/2.adfd6847.chunk.js": "https://nanipime.github.io/csb-zr7w9/static/js/2.adfd6847.chunk.js",
+    "static/js/2.adfd6847.chunk.js.map": "https://nanipime.github.io/csb-zr7w9/static/js/2.adfd6847.chunk.js.map",
+    "index.html": "https://nanipime.github.io/csb-zr7w9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nanipime.github.io/csb-zr7w9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.adfd6847.chunk.js.LICENSE.txt": "https://nanipime.github.io/csb-zr7w9/static/js/2.adfd6847.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c03034c.js",
+    "static/js/2.adfd6847.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.252b172c.chunk.js"
+  ]
+}
